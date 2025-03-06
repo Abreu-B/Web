@@ -1,0 +1,171 @@
+#: locale=es
+
+## Acción
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28143.85441670434!2d-86.88770466928388!3d20.905405259893218!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e870068c04b23%3A0x7a37b5fe9fc0d5a8!2sVITA%20E%20MARE%20-%20Residencial%20de%20Mar!5e0!3m2!1ses-419!2smx!4v1741113610025!5m2!1ses-419!2smx
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## E-Learning
+
+### Nombre Puntuación
+score1.label = Puntuación 1
+
+### Pantalla Fin de Tiempo
+quizTimeout_4CAEAFBA_682F_9C98_41D4_81828A900F42.title = - TIMEOUT -
+quizTimeout_4CAEAFBA_682F_9C98_41D4_81828A900F42.repeat = Repeat
+quizTimeout_4CAEAFBA_682F_9C98_41D4_81828A900F42.score = View Score
+
+### Pantalla Pregunta
+quizQuestion_4CADCFBB_682F_9C9F_41CC_4802960A5F95.ok = OK
+
+### Pantalla Reporte
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.title = - SCORE -
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.completion = Completed
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.questionsCorrect = Correct
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.downloadCSV = Download .csv
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.questionsIncorrect = Incorrect
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.items = Items Found
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.questions = Questions
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.repeat = Repeat
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.submitToLMS = Submit
+quizScore_4CAB7FBB_682F_9C9F_41BA_401CD41EF10A.elapsedTime = Time
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_74B049B1_6C0E_9A04_41B6_CE06E75101BF.text = 01 km
+HotspotPanoramaOverlayTextImage_754FFEF0_6C02_9603_41D2_DDE475AF1AE2.text = 03 km
+HotspotPanoramaOverlayTextImage_74F44C34_6C07_BA03_41CD_1ECBEA66BA0D.text = 07 km
+HotspotPanoramaOverlayTextImage_7577837A_6C06_8E04_41B4_EF0A437D1C46.text = 07 km
+HotspotPanoramaOverlayTextImage_748C270E_6C07_961F_41D7_04D7B9733004.text = 07.5 km
+HotspotPanoramaOverlayTextImage_75AEA915_6C05_7A0C_41B9_D84A5416FCE4.text = 09 km
+HotspotPanoramaOverlayTextImage_7512A470_6C02_8A03_41D3_1D9A08527AEC.text = 13 km
+HotspotPanoramaOverlayTextImage_74277818_6C02_9A03_41CA_4B605A812BBD.text = 14 km
+FlatHotspotPanoramaOverlayTextImage_49CAEBB7_68D3_A4A8_41BB_6BD574490914.text = Acceso
+HotspotPanoramaOverlayTextImage_75E98F84_6837_9D69_41CC_01F3577E68D1.text = Acceso
+HotspotPanoramaOverlayTextImage_7427A819_6C02_9A05_41BA_197815359694.text = Aeropuerto internacional de Cancun
+HotspotPanoramaOverlayTextImage_75CB3EF8_6830_9C98_41B3_A07C503F49EA.text = Anfiteatro
+FlatHotspotPanoramaOverlayTextImage_4970A74E_68D0_ADF8_41CF_4C8A90DE02FA.text = Anfiteatro
+HotspotPanoramaOverlayTextImage_74C9A9C4_6831_E4E8_41D0_4E700F95304D.text = Anfiteatro
+HotspotPanoramaOverlayTextImage_75C33BA0_6831_A4A8_41C5_29A80DB15536.text = Anfiteatro
+HotspotPanoramaOverlayTextImage_7629372D_6830_EDB8_41CC_1EAA3966D6A7.text = Anfiteatro
+HotspotPanoramaOverlayTextImage_75AE6915_6C05_7A0F_41D8_4181B81AB0C5.text = Estación Tren Maya
+HotspotPanoramaOverlayTextImage_7577F37A_6C06_8E04_41A6_A4BEFB3E5788.text = Palacio municipal
+HotspotPanoramaOverlayTextImage_74B099B2_6C0E_9A04_41D2_F71063BBDBD0.text = Palacio municipal
+HotspotPanoramaOverlayTextImage_752D6470_6C02_8A03_41C1_FFE41C66B21B.text = Parque Ecoturistico
+FlatHotspotPanoramaOverlayTextImage_4CDDA010_68D0_A368_41C5_4C2505063331.text = Parque L
+HotspotPanoramaOverlayTextImage_75FF9AE6_6830_64A8_41D4_55D9787B3E85.text = Parque L
+HotspotPanoramaOverlayTextImage_755B1AF9_6830_A49B_41D7_669BD8C6D454.text = Parque M
+FlatHotspotPanoramaOverlayTextImage_4975ABC0_68D1_E4E8_41A2_DE1C7D32B969.text = Parque M
+HotspotPanoramaOverlayTextImage_75CB67B2_6830_ACA8_41B0_8295F8948D09.text = Parque R
+FlatHotspotPanoramaOverlayTextImage_49EE6906_68D7_A568_41CE_F6304D9F2B33.text = Parque R
+HotspotPanoramaOverlayTextImage_74F41C35_6C07_BA0D_41D1_320CE1E62E75.text = Puerto Morelos - Muelle Principal
+HotspotPanoramaOverlayTextImage_756C61AA_6C7F_8A04_41D1_02760B452F2E.text = Ruta de los Cenotes
+HotspotPanoramaOverlayTextImage_75402EF0_6C02_9603_41D7_EB8DF5409D5F.text = Zoologíco
+
+## Media
+
+### Audio
+audiores_7A91D65B_62C2_C01B_41D8_42F68DBEFAB0.mp3Url = media/audio_74793F49_62C1_4067_41D1_F484F741EAB6_es.mp3
+
+### Floorplan
+
+### Imágen
+imlevel_4FF5AA3F_6C03_7E7C_41BE_BC5639B0A1FE.url = media/map_701629A1_6C05_9A05_41A1_5D4DF2D01A27_es_0.webp
+imlevel_4FF59A3F_6C03_7E7C_41B2_02BCABCAFFAC.url = media/map_701629A1_6C05_9A05_41A1_5D4DF2D01A27_es_1.webp
+imlevel_4FF58A3F_6C03_7E7C_41B7_9D456B611C0A.url = media/map_701629A1_6C05_9A05_41A1_5D4DF2D01A27_es_2.webp
+imlevel_4FF57A3F_6C03_7E7C_41C2_C095C09EFD0B.url = media/map_701629A1_6C05_9A05_41A1_5D4DF2D01A27_es_3.webp
+imlevel_76542481_68F3_E368_41C8_3EA0CAF68F2C.url = media/panorama_69ABF6D4_6246_C06D_41B4_227F17BDC38E_HS_nx3puiko_es.webp
+imlevel_765094F2_68F3_ECA8_41D6_59EF2B3EE3B4.url = media/panorama_69AE1BFC_6246_C01D_41D1_DE45AE879289_HS_uo9wtgwm_es.webp
+imlevel_7656D4A8_68F3_ECB8_41D3_6A3CE71BAC52.url = media/panorama_69AE2B62_6246_C025_41B7_7AC303CD9CFA_HS_14i9am4g_es.webp
+imlevel_7657B492_68F3_E369_41B9_8C72A725A2A0.url = media/panorama_69AE2B62_6246_C025_41B7_7AC303CD9CFA_HS_2lnock3t_es.webp
+imlevel_7650B4DC_68F3_EC98_41D6_6053956CAD90.url = media/panorama_69AE2B62_6246_C025_41B7_7AC303CD9CFA_HS_p5jgt5bg_es.webp
+imlevel_765164C0_68F3_ECE8_41BA_72F3852AE63E.url = media/panorama_69AE2B62_6246_C025_41B7_7AC303CD9CFA_HS_terx9gct_es.webp
+imlevel_76500508_68F3_ED79_41C1_4A44F46BC047.url = media/panorama_69AE30DD_6246_C01F_41D6_0068F6978254_HS_cvzn59sz_es.webp
+imlevel_7653A51F_68F3_ED97_41CD_1365A94944A3.url = media/panorama_69AE7642_6246_C065_41B5_85203FE0B8CA_HS_93hdrc6z_es.webp
+imlevel_748DE72A_6C0D_9604_4196_EEB61B12635A.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_9420wp89_es.webp
+imlevel_7499A6FA_6C0D_9607_41DA_A3BECB233AFF.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_ck2g8722_es.webp
+imlevel_748CB767_6C0D_960D_41B5_86AD946B2AC5.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_e2oq5gpl_es.webp
+imlevel_748CE753_6C0D_9604_41D8_7CEFC6EE83A4.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_h5b7zu0s_es.webp
+imlevel_49F3086C_68D1_A3B8_41C8_87565BA8571D.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_hszuhe2g_es.webp
+imlevel_4BD3F3ED_68D0_A4BB_41B8_6FF4FDA293EB.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_hvck17ke_es.webp
+imlevel_748E9714_6C0D_960C_419F_6FF0BA5CA05F.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_i8cmkhv4_es.webp
+imlevel_49CC78D0_68D1_A4E8_41C3_C92F9639FA60.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_it2v5wma_es.webp
+imlevel_748D873E_6C0D_967C_41C1_CC66B91C9A51.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_j2r2nk2r_es.webp
+imlevel_7489D7E3_6C0D_9604_41CC_CFBF448A37B2.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_l5r0wzlf_es.webp
+imlevel_49CC8882_68D1_A368_41D1_DC21542C90B8.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_lj8kt0rm_es.webp
+imlevel_748B577C_6C0D_96FC_41DA_899F0C62AE88.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_m0novbf3_es.webp
+imlevel_748A37A7_6C0D_960C_41D0_EA3989B8B7D3.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_p5svhlfo_es.webp
+imlevel_74E266DB_6C0D_9604_41D0_77B56B761DDA.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_pgz2oegx_es.webp
+imlevel_748A07D0_6C0D_9603_41CE_4E7955640829.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_q9c5indq_es.webp
+imlevel_748F170A_6C0D_9604_41D4_5BC6A6D2DBB4.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_ry080f00_es.webp
+imlevel_748BC78F_6C0D_961D_41C9_649B437206B7.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_slf038zg_es.webp
+imlevel_7489D7BB_6C0D_9605_41D6_E450184CEABD.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_t7x1i4wi_es.webp
+imlevel_4BD3E3DA_68D0_A498_41C0_D9F99CD949CB.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_uhnlt1de_es.webp
+imlevel_7623108A_6C05_8A04_41BC_600450AF0851.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_upvddnhd_es.webp
+imlevel_748917FD_6C0D_95FD_41D9_085F018C98F7.url = media/panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246_HS_uy0pa8to_es.webp
+
+### Subtítulos de Audio
+
+### Título
+panorama_69ABF6D4_6246_C06D_41B4_227F17BDC38E.label = Acceso
+panorama_6C4621E3_6246_C02B_41C4_BDC0ADB28246.label = Aerea
+panorama_69AE2B62_6246_C025_41B7_7AC303CD9CFA.label = Anfiteatro
+panorama_69AE1BFC_6246_C01D_41D1_DE45AE879289.label = Parque L
+panorama_69AE30DD_6246_C01F_41D6_0068F6978254.label = Parque M
+panorama_69AE7642_6246_C065_41B5_85203FE0B8CA.label = Parque R
+map_701629A1_6C05_9A05_41A1_5D4DF2D01A27.label = planta
+
+## Skin
+
+### Botón
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = ESCENARIOS
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFORMACIÓN
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = MASTERPLAN
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = UBICACIÓN
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Etiqueta
+Label_70CF7242_6243_4065_41A4_2DDAE207D9DC.text = Creado por Everland
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
+
+### Imágen
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_es.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_es.jpg
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_es.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_es.png
+Image_726E5588_627F_40E5_41B5_5E2C69621BB4.url = skin/Image_726E5588_627F_40E5_41B5_5E2C69621BB4_es.png
+Image_73D0E01C_6242_C01D_419B_9D2CF38D62BB.url = skin/Image_73D0E01C_6242_C01D_419B_9D2CF38D62BB_es.jpg
+
+### Texto Multilínea
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_714B3708_6241_41E5_41BD_B1971F77E4C4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:4.19vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.18848167539267vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.19vh;font-family:'Bebas Neue Bold';">ESCENARIOS</SPAN></SPAN></DIV></div>
+HTMLText_71E8831C_6247_401D_41B7_58B948BB13CF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:4.19vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.712041884816755vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.71vh;font-family:'Bebas Neue Bold';">mASTER PLAN</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_71FE0F90_624E_C0E5_419C_D991A1693858.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:4.71vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.712041884816755vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.71vh;font-family:'Bebas Neue Bold';">INFORMACIÓN</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003333;font-size:6.67vmin;font-family:'Bebas Neue Bold';">UBICACIÓN</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.094240837696334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.09vmin;">Con una ubicación privilegiada, Vita e Mare esta en la mejor zona de crecimiento actual en Puerto Morelos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.6178010471204196vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003333;font-size:2.62vmin;"><B>CONECTIVIDAD</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.094240837696334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.09vmin;">En la mitad de todo, siendo punto ancla entre Cancún y Playa del Carmen, Pto Morelos te invita a tener un espacio único en una de las mejores privadas de la ciudad.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003333;font-size:6.67vmin;font-family:'Bebas Neue Bold';">vITA E MARE</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.094240837696334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.09vmin;">Se beneficia de la visión a largo plazo de </SPAN><SPAN STYLE="font-size:2.09vmin;"><B>PUERTO MORELOS</B></SPAN><SPAN STYLE="font-size:2.09vmin;">, posicionándose en el corazón de una zona que se proyecta como el próximo gran destino para quienes buscan combinar el encanto residencial con las posibilidades comerciales.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.094240837696334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.09vmin;">Representa la elegancia y exclusividad, inspirada en la majestuosa ciudad de </SPAN><SPAN STYLE="font-size:2.09vmin;"><B>Venecia</B></SPAN><SPAN STYLE="font-size:2.09vmin;"> y con la mezcla que nos regala la </SPAN><SPAN STYLE="font-size:2.09vmin;"><B>Riviera Maya.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.094240837696334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.09vmin;">Desarrollo de 20 hectareas, divididas en 4 hermosas etapas, con amenidades unicas y con detalles que han sido pensado para complementar un estilo de vida sin igual. Rodeado de exclusivos terrenos residenciales, Vita e Mare promete ser más que un hogar; es una invitación a vivir en un sueño, donde cada día es una escapada a la tranquilidad y el esplendor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.730000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.730000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+tour.description = Vita E Mare  \
+ \
+"AQUÍ, LA VIDA SE VIVE CON UNA PERSPECTIVA DIFERENTE, DONDE EL PASADO Y EL FUTURO SE ENCUENTRAN PARA CREAR UN PRESENTE"
+
+### Título
+tour.name = Vita E Mare
